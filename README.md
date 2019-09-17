@@ -26,6 +26,7 @@ The extra useful information on the screen here is, it displays
 3. Weather related information in the current location
 
 
+![ttulogo](https://user-images.githubusercontent.com/55072446/65087589-efddb500-d97b-11e9-8a86-e7d10ece6930.PNG)
 
 
 
