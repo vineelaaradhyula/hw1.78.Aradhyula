@@ -12,12 +12,13 @@ The code that is used to design this panel is html.
 
 As mentioned earlier, this design supports people with blind disability by having a Braille content enabled on the screen. Initially, the screen looks like this without any Braille content.
 
-
-
+<img width="749" alt="hw1withoutbraile" src="https://user-images.githubusercontent.com/55072446/65087685-52cf4c00-d97c-11e9-93bb-b0ce9eb208f6.png">
 
 Then we go for implementing a Braille overlay which is a label that can be sticked on the touch screen control panel.
 Advantage - The biggest advantage of having this is that the blind people need not depend on others to use the elevator
 The panel looks like this with a Braille overlay
+
+<img width="756" alt="hw1withbraile" src="https://user-images.githubusercontent.com/55072446/65087667-3cc18b80-d97c-11e9-9ed2-02bf0f1c9e1b.png">
 
 
 The extra useful information on the screen here is, it displays
@@ -26,7 +27,7 @@ The extra useful information on the screen here is, it displays
 3. Weather related information in the current location
 
 
-![ttulogo](https://user-images.githubusercontent.com/55072446/65087589-efddb500-d97b-11e9-8a86-e7d10ece6930.PNG)
+![hw1 Aradhyula](https://user-images.githubusercontent.com/55072446/65087725-6c709380-d97c-11e9-8c32-da6707a0b689.gif)
 
 
 
