@@ -14,6 +14,7 @@ As mentioned earlier, this design supports people with blind disability by havin
 
 
 
+
 Then we go for implementing a Braille overlay which is a label that can be sticked on the touch screen control panel.
 Advantage - The biggest advantage of having this is that the blind people need not depend on others to use the elevator
 The panel looks like this with a Braille overlay
