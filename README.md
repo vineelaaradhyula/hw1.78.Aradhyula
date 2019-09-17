@@ -26,4 +26,6 @@ The extra useful information on the screen here is, it displays
 
 
 
-https://github.com/vineelaaradhyula/HW1/blob/master/HW1-DEMO%20.html
+
+
+https://vineelaaradhyula.github.io/HW1/HW1-DEMO.html
