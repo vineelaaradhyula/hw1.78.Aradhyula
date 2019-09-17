@@ -23,3 +23,7 @@ The extra useful information on the screen here is, it displays
 1. Location
 2. Date & Time
 3. Weather related information in the current location
+
+
+
+https://nnhuyen.github.io/new-hw1/demo.html
