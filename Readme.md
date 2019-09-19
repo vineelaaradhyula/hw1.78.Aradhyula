@@ -27,8 +27,4 @@ The extra useful information on the screen here is, it displays
 3. Weather related information in the current location
 
 
-![hw1 Aradhyula](https://user-images.githubusercontent.com/55072446/65087725-6c709380-d97c-11e9-8c32-da6707a0b689.gif)
-
-
-
 https://vineelaaradhyula.github.io/HW1/HW1-DEMO.html
